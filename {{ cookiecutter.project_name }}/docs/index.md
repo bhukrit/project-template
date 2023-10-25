@@ -19,7 +19,7 @@ hide:
 
 # General Page
 
-**Last updated:** *{{ git_revision_date_localized }}*
+**Last updated:** *{{ cookiecutter.date }}*
 
 !!! note "Section Overview"
 

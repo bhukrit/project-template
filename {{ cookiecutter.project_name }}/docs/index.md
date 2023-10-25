@@ -93,10 +93,10 @@ You can link to a URL or to somewhere locally.
 You can render tables directly like this:
 
 ```
-{{ read_csv('./assets/samplesheet.csv') }}
+{{ pd.read_csv('./assets/samplesheet.csv') }}
 ```
 
-{{ read_csv('./assets/samplesheet.csv') }}
+{{ pd.read_csv('./assets/samplesheet.csv') }}
 
 <!-- Footnote content -->
 

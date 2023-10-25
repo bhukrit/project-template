@@ -46,6 +46,7 @@ Text will be highlighted appropriately when you include language abbreviation:
 
 ```py
 import tensorflow as tf
+import pandas as pd
 ```
 
 ### Admonitions
